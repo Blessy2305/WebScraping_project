@@ -1,5 +1,5 @@
-# WebScraping_project
-#Web Scraping and EDA project on Analysis on Different Specilization of Doctors 
+# web Scraping
+# Web Scraping and EDA project on Analysis on Different Specilization of Doctors 
 This project is regarding analysis on different specilization of doctors using Practo.com website.
 
 We did this project as a team of two members. First we have collected the data from Practo.com website based on our requirements by right clicking particular data and inspected that and parsed the html code from it.
